@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-5.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-5.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-5.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-5.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-5.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aspects-5.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aspectjweaver-1.6.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com.springsource.net.sf.cglib-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/druid-1.1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.0-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jdbc-5.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-orm-5.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-tx-5.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
